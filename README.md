@@ -1,5 +1,5 @@
 # Al-magic theme for oh-my-zsh
-This theme is a clone of the af-magic theme you can found [here](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme).
+This theme is a clone of the af-magic theme you can found [here](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) but with the time at the right of the prompt.
 
 ## Installing
 
